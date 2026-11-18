@@ -1,0 +1,17 @@
+Make Yourself at Home
+Windows x64 / Unity 6000.3.20f1
+
+Windows 版本
+解压 Windows 压缩包后，运行 Make Yourself at Home.exe。
+请保留同目录的数据文件夹和 DLL 文件。
+方向键或 WASD 移动，靠近设备按 E 交互。
+按住空格使用麦克风，在输入框打字后按发送。
+自由生成对话和语音识别需要在设置中填写自己的 Groq API Key。
+
+Unity 源码
+解压源码包后，用 Unity Hub 添加该目录。
+使用 Unity 6000.3.20f1 打开 Assets/ThirdDay/Scenes/ThirdDay.unity。
+源码包包含 Assets、Packages 和 ProjectSettings。
+个人存档和 API Key 存于本机 PlayerPrefs。
+
+本次构建包含细化家具模型，以及仅叠加在背景城市建筑上的纸纹效果。
